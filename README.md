@@ -8,6 +8,7 @@ I've reformatted all the koan source files (/src/koans/*.clj) so that I can eval
 each koan in LightTable.
 
 To run the source files in LightTable:
+
 1. Open files in Light Table
 2. Open the command pane (CTRL + SPACE) and type 'inst' then choose 'Instarepl: Make current editor an instarepl'
 
